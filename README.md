@@ -13,8 +13,8 @@ This is my GitHub page with all the examples I write for my students.
 
 ### Currently working with
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,flutter,html,pug,ts,redux,dart,css,sass,regex,sentry,androidstudio,idea,arduino,git,gitlab,github&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,flutter,pug,html,ts,redux,dart,sass,css,regex,sentry,androidstudio,arduino,idea,git,gitlab,github,java,c,npm,gcp,firebase,figma,webpack&perline=5)](https://skillicons.dev)
 
 ### Previously worked with
 
-[![My Previous Skills](https://skillicons.dev/icons?i=materialui,bootstrap,jquery,webpack,gulp,nodejs,php,wordpress,postman,gcp,firebase,figma,ps&perline=5)](https://skillicons.dev)
+[![My Previous Skills](https://skillicons.dev/icons?i=materialui,bootstrap,jquery,gulp,ps,nodejs,php,wordpress,postman,linux&perline=5)](https://skillicons.dev)
