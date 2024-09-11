@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+[![Stand With Ukraine](https://raw.githubusercontent.com/SerSerch/serserch/main/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
 I'm Sergey! A software engineer based out of Odesa who is passionate about React, React-Native, Flutter and web front end. 
 
